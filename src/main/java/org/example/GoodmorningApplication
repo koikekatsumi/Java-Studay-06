@@ -1,0 +1,11 @@
+package org.example;
+
+
+@SpringBootApplication
+public class GoodmorningApplication {
+    public static void main(String[] args) {
+
+        SpringApplication.run(GoodmorningApplication.class,args);
+
+    }
+}
